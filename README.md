@@ -1,7 +1,5 @@
 TeamWin Recovery Project
 
-**项目停止维护**
-
 Device configuration for Oppo R9s/sk
 =====================================================
 
@@ -21,4 +19,6 @@ Rear Camera  | 16.0 MP, LED flash
 Front Camera | 16.0 MP
 Release Date | October 2016
 
-![Oppo R9s](https://i.ibb.co/1R9dJmZ/22840bb277a236c041002e7ad33d202ad618764d3c93a8748e74c4e8f9c82ae6-0.webp)
+适配过程见[TWRP 适配与 bug 修复（回忆向）](https://inf-astra.github.io/posts/1.html)
+
+**项目停止维护**
