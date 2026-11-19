@@ -1,5 +1,7 @@
 TeamWin Recovery Project
 
+适配过程见文章[TWRP 适配与 bug 修复（回忆向）](https://inf-astra.github.io/posts/1.html)
+
 Device configuration for Oppo R9s/sk
 =====================================================
 
